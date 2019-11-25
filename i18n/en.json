@@ -1,0 +1,44 @@
+{
+  "HOME": {
+    "HOME_LOGOUT": "Log Out"
+    
+  },
+  "MENU": {
+    "HOME": "Home",
+    "CUSTOMER": "Customer",
+    "BUSINESS_CUSTOMER": "Business Customer",
+    "PRIVATE_CUSTOMER": "Private Customer",
+    "CUSTOMER_SEARCH": "Customer search",
+    "LARGE_ACCOUNTS": "Large Accounts",
+    "CREATE_LARGE_ACCOUNT": "Create Large Account",
+    "MODIFY_LARGE_ACCOUNT": "Modify Large Account",
+    "CONTRACT": "Contract",
+    "PREPAID_CONTRACT": "Pre-Paid Contract",
+    "POSTPAID_CONTRACT": "Post-Paid Contract",
+    "CONTRACT_SEARCH": "Contract Search",
+    "BILLING": "Billing",
+    "GENERATE_INVOICE": "Generate Invoice",
+    "SEARCH_INVOICE": "Search Invoice",
+    "USERS": "Users",
+    "CREATE_USER": "Create User",
+    "SEARCH_USERS": "Search Users",
+    "CHANGE_PASSWORD": "Change Password",
+    "MASS_ACTIONS": "Mass Actions",
+    "CHANGE_TARIFF_PLAN": "Change Tariff Plan",
+    "DEACTIVATE_SIMS_CARD": "Deactivate SIM's Card",
+    "ORDER_MANAGEMENT": "Order Management",
+    "ORDER_WORKFLOW": "Order Workflow",
+    "COMMISSION_CALCULATION": "Commission Calculation",
+    "PREPAID_SUBSCRIBERS": "Pre-Paid Subscribers",
+    "POSTPAID_SUBSCRIBERS": "Post-Paid Subscribers",
+    "TARIFFS": "Tariffs",
+    "TIME_TARIFFS": "Time Packages",
+    "ZONE_TARIFFS": "Zone Packages",
+    "ORIGINS_DESTINATIONS": "Origins - Destinations",
+    "PRICING": "Pricing",
+    "TARIFFPACKAGES": "Tariff Packages",
+    "BASICSERVICES": "Basic Services",
+    "PRODUCTOFFERINGS": "Product Offerings",
+    "RATEPLAN":  "Rate Plan"
+  }
+}
